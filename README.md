@@ -10,3 +10,6 @@ To be really honest with you, I kinda don't know what to write here, but well...
 ## Quick facts about me 🎈
 * Geography and History are topics that I really enjoy!
 * I kinda want to learn a "not that common" REAL WORLD language, like Finnish, Russian, Japanese or Korean.
+
+## Contact ✉
+* You call e-mail me at pablosarturi1@gmail.com.
