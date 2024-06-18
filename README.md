@@ -3,8 +3,8 @@
 To be really honest with you, I kinda don't know what to write here, but well... I can say that I usually work with C# and a low code language called GeneXus.
 
 ## About my future 🐾
-* Enhance my skills with WPF and ASP.NET Core (specially MVC).
-* Study some Blazor!
+* Enhance my skills with WPF and ASP.NET Core.
+* Study more about Blazor and Angular!
 * I'm also thinking about learning some Unity...
 
 ## Quick facts about me 🎈
